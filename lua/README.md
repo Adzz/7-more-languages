@@ -187,5 +187,7 @@ Save your files with a `.lua` extension, you can pass a script to the reply by d
 lua mys_cript.lua
 ```
 
+Head to the exercises for each chapter to see if I actually did them...
 
+Chapter 1
 
