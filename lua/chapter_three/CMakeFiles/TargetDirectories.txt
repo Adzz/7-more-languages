@@ -1,0 +1,3 @@
+/Users/Adz/Projects/7-more-languages/lua/chapter_three/CMakeFiles/rebuild_cache.dir
+/Users/Adz/Projects/7-more-languages/lua/chapter_three/CMakeFiles/edit_cache.dir
+/Users/Adz/Projects/7-more-languages/lua/chapter_three/CMakeFiles/play.dir
